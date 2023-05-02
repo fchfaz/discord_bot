@@ -30,6 +30,7 @@ Chatbot discord simpel yang menggunakan teknologi ChatGPT dari OpenAI.
 ![Previleged](https://user-images.githubusercontent.com/52305641/235568285-5ea4e5a7-0bbd-4dd1-8948-c6db9aa2fa01.png)
 
 6. Lanjut, di sidebar menu klik options OAuth2 --> URL Generator
+
 ![URL-Generator](https://user-images.githubusercontent.com/52305641/235568731-ecd41b14-7a89-4eb1-a80c-408639662b9b.png)
 
 7. Pada bagian Scopes centang 'bot' dan 'applications.command'
