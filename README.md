@@ -4,7 +4,7 @@ Chatbot discord simpel yang menggunakan teknologi ChatGPT dari OpenAI.
 
 ## Requirements
 - Sudah punya akun Discord dan aktifin Developer mode pada setting aplikasi (pastinya ini mah :v)
-- Telah membuatbuat Application di Discord Developers Portal: https://discord.com/developers/applications
+- Telah membuat Application di Discord Developers Portal: https://discord.com/developers/applications
 - Telah membuat akun OpenAI: https://platform.openai.com/
 - Download dan install Git di https://git-scm.com/downloads
 - Download dan install Node.JS di https://nodejs.org/en/download
