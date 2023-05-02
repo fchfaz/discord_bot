@@ -29,8 +29,7 @@ Chatbot discord simpel yang menggunakan teknologi ChatGPT dari OpenAI.
 5. Kemudian scroll kebawah sampai bagian Previlaged Gateway Intents, aktifkan centang pada ke-3 pilihannnya seperti pada gambar dibawah, lalu klik tombol Save Changes
 ![Previleged](https://user-images.githubusercontent.com/52305641/235568285-5ea4e5a7-0bbd-4dd1-8948-c6db9aa2fa01.png)
 
-6. Lanjut, di sidebar menu klik options OAuth2 --> URL Generator
-
+6. Lanjut, di sidebar menu klik options OAuth2 lalu pilih URL Generator
 ![URL-Generator](https://user-images.githubusercontent.com/52305641/235568731-ecd41b14-7a89-4eb1-a80c-408639662b9b.png)
 
 7. Pada bagian Scopes centang 'bot' dan 'applications.command'
@@ -43,7 +42,10 @@ Chatbot discord simpel yang menggunakan teknologi ChatGPT dari OpenAI.
 ![Copy URL](https://user-images.githubusercontent.com/52305641/235570779-0ee5a95f-0616-412c-b5a5-108f2608633d.png)
 
 10. Tambahkan ke Channel Discord kalean.
+
 ![Add to Channel](https://user-images.githubusercontent.com/52305641/235570833-bc7b1a21-6e9d-458c-a3a4-03001a0b7f34.png)
+
+
 
 Udah gitu aja.
 
@@ -53,7 +55,7 @@ Udah gitu aja.
 1. Clone repository ini
 
 ```powershell
-git clone https://github.com/fchfaz/discord_bot.git .
+git clone https://github.com/fchfaz/discord_bot.git
 ```
 
 2. Install semua dependencies yang diperlukan
@@ -70,9 +72,11 @@ npm install
 
 -Buat dan copy API-Key OpenAI di: https://platform.openai.com/account/api-keys dan paste dibagian "API-KEY"
 ![buat](https://user-images.githubusercontent.com/52305641/235572206-86f3b554-5964-4602-aa0e-b6d55b9b936f.png)
+
 ![copy](https://user-images.githubusercontent.com/52305641/235572556-1e1cac84-6367-4124-a509-0715ffe21049.png)
 
 -Copy ID Channel server discord dan paste dibagian "CHANNEL_ID"
+
 ![channelID](https://user-images.githubusercontent.com/52305641/235572816-59205693-f638-406c-9db8-b42c55375299.png)
 
 
