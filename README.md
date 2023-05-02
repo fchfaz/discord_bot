@@ -1,6 +1,6 @@
 # Chatbot Discord dengan ChatGPT (gpt-3.5-turbo)
 
-Chatbot discord simpel yang menggunakan teknologi ChatGPT dari OpenAI.
+Chatbot discord yang menggunakan teknologi ChatGPT dari OpenAI.
 
 ## Requirements
 - Sudah punya akun Discord dan aktifin Developer mode pada setting aplikasi (pastinya ini mah :v)
