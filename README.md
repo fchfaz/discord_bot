@@ -71,8 +71,6 @@ npm install
 ![Token](https://user-images.githubusercontent.com/52305641/235572206-86f3b554-5964-4602-aa0e-b6d55b9b936f.png)
 
 -Buat dan copy API-Key OpenAI di: https://platform.openai.com/account/api-keys dan paste dibagian "API-KEY"
-![buat](https://user-images.githubusercontent.com/52305641/235572206-86f3b554-5964-4602-aa0e-b6d55b9b936f.png)
-
 ![copy](https://user-images.githubusercontent.com/52305641/235572556-1e1cac84-6367-4124-a509-0715ffe21049.png)
 
 -Copy ID Channel server discord dan paste dibagian "CHANNEL_ID"
