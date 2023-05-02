@@ -1,4 +1,4 @@
-#Chatbot Discord dengan ChatGPT (gpt-3.5-turbo)
+# Chatbot Discord dengan ChatGPT (gpt-3.5-turbo)
 
 Chatbot discord yang menggunakan teknologi ChatGPT dari OpenAI.
 
@@ -13,7 +13,7 @@ Chatbot discord yang menggunakan teknologi ChatGPT dari OpenAI.
 
 ## Petunjuk
 
-###Buat Application Discord Developers Portal
+### Buat Application Discord Developers Portal
 
 1. Buka situs nya https://discord.com/developers/applications
 
